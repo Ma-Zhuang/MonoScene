@@ -7,3 +7,5 @@ monoscene_output/*
 core*
 images
 .vscode
+*output
+*log*
